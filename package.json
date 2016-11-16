@@ -1,7 +1,7 @@
 {
   "name": "react-inbox",
   "version": "1.0.0",
-  "description": "",
+  "description": "### Objectives Become comfortable with routing and lifecycle methods.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -22,6 +22,14 @@
   "dependencies": {
     "react": "^15.2.1",
     "react-dom": "^15.2.1",
-    "react-router": "^2.5.2"
-  }
+    "react-router": "^2.8.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shaadr/react-mail.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Shaadr/react-mail/issues"
+  },
+  "homepage": "https://github.com/Shaadr/react-mail#readme"
 }
